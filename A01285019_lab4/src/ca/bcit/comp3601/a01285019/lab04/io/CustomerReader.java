@@ -1,4 +1,4 @@
-package ca.bcit.comp3601.a00123456.lab03.io;
+package ca.bcit.comp3601.a01285019.lab04.io;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -7,9 +7,9 @@ import java.util.Map;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import ca.bcit.comp3601.a00123456.lab03.ApplicationException;
-import ca.bcit.comp3601.a00123456.lab03.data.Customer;
-import ca.bcit.comp3601.a00123456.lab03.util.Validator;
+import ca.bcit.comp3601.a01285019.lab04.ApplicationException;
+import ca.bcit.comp3601.a01285019.lab04.data.Customer;
+import ca.bcit.comp3601.a01285019.lab04.util.Validator;
 
 
 public class CustomerReader {
